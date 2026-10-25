@@ -52,7 +52,7 @@ A full-featured e-commerce mobile app built independently in Flutter, with a com
 ## 🏗️ Architecture Highlights
 
 - Clean, reusable GetX controllers shared across 16+ screens
-- Real-time Firestore listeners for both order tracking and admin-side inventory sync (see companion [SnapKart Admin Panel](https://github.com/ahmadsultaniswl-stack/snapkart-admin-panel))
+- Real-time Firestore listeners for both order tracking and admin-side inventory sync (see companion [SnapKart Admin Panel](https://github.com/saieahmadsultan/snapkart-admin-panel))
 - One-time custom migration script to move the product catalog from a public REST API into Firestore
 - Firebase Security Rules configured for role-based data access
 
@@ -62,7 +62,7 @@ A full-featured e-commerce mobile app built independently in Flutter, with a com
 
 ```bash
 # Clone the repo
-git clone https://github.com/ahmadsultaniswl-stack/snapkart.git
+git clone https://github.com/saieahmadsultan/snapkart.git
 cd snapkart
 
 # Install dependencies
@@ -78,7 +78,8 @@ flutter run
 
 ## 👤 Author
 
-**Saie Ahmad**
+**Saie Ahmad Sultan**
 Flutter Mobile App Developer
 📧 ahmadsultaniswl@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/saie-ahmad)
+🔗 [LinkedIn](https://www.linkedin.com/in/saie-ahmad-sultan)
+🐙 [GitHub](https://github.com/saieahmadsultan)
