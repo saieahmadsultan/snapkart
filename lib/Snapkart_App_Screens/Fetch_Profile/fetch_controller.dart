@@ -2,6 +2,7 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 
 class FetchController extends GetxController {
   String oldFirstName = "";
@@ -10,6 +11,7 @@ class FetchController extends GetxController {
   var isLoading = false.obs;
   var displayName = "".obs;
   var displayEmail = "".obs;
+  var profileImage = ''.obs;
 
   TextEditingController firstNameController = TextEditingController();
   TextEditingController lastNameController = TextEditingController();
@@ -21,6 +23,9 @@ class FetchController extends GetxController {
   void fetchUserData() async {
     try {
       isLoading.value = true;
+
+      final prefs = await SharedPreferences.getInstance();
+      profileImage.value = prefs.getString('login_screen_profile_image') ?? '';
 
       var doc = await FirebaseFirestore.instance
           .collection('users')

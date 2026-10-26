@@ -89,7 +89,7 @@ flutter:
 flutter_launcher_icons:
   android: "launcher_icon"
   ios: true
-  image_path: "assets/images/snapkarticon.png"
+  image_path: "assets/images/snapkart_icon.png"
 
   # To add assets to your application, add an assets section, like this:
   # assets:

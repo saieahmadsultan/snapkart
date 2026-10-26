@@ -15,6 +15,7 @@ import 'Utilities_Screens/App_Colors/app_colors.dart';
 import 'Utilities_Screens/App_Translation/app_translation.dart';
 import 'Utilities_Screens/Currency_Service/currency_service.dart';
 import 'firebase_options.dart';
+import 'Utilities_Screens/App_Colors/app_theme.dart';
 
 final FlutterLocalNotificationsPlugin flutterLocalNotificationsPlugin =
     FlutterLocalNotificationsPlugin();
@@ -107,6 +108,49 @@ Future<void> _initNotifications() async {
   });
 }
 
+// class MyApp extends StatelessWidget {
+//   final Locale initialLocale;
+//   final ThemeMode initialThemeMode;
+//   const MyApp({
+//     super.key,
+//     required this.initialLocale,
+//     required this.initialThemeMode,
+//   });
+//
+//   @override
+//   Widget build(BuildContext context) {
+//     return GetMaterialApp(
+//       debugShowCheckedModeBanner: false,
+//       title: 'Flutter Demo',
+//       translations: AppTranslations(),
+//       locale: initialLocale,
+//       fallbackLocale: const Locale('en', 'US'),
+//       theme: ThemeData(
+//         brightness: Brightness.light,
+//         scaffoldBackgroundColor: const Color(0xFFF8F9FA),
+//         cardColor: Colors.white,
+//         colorScheme: ColorScheme.fromSeed(seedColor: AppColors.primary),
+//       ),
+//       darkTheme: ThemeData(
+//         brightness: Brightness.dark,
+//         scaffoldBackgroundColor: const Color(0xFF121212),
+//         cardColor: const Color(0xFF1E1E2E),
+//         colorScheme: ColorScheme.fromSeed(
+//           seedColor: AppColors.primary,
+//           brightness: Brightness.dark,
+//         ),
+//       ),
+//       themeMode: initialThemeMode,
+//       initialRoute: AppRoutes.initial,
+//       getPages: AppRoutes.routes,
+//     );
+//   }
+// }
+
+
+
+
+
 class MyApp extends StatelessWidget {
   final Locale initialLocale;
   final ThemeMode initialThemeMode;
@@ -120,25 +164,12 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return GetMaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Flutter Demo',
+      title: 'SnapKart',
       translations: AppTranslations(),
       locale: initialLocale,
       fallbackLocale: const Locale('en', 'US'),
-      theme: ThemeData(
-        brightness: Brightness.light,
-        scaffoldBackgroundColor: const Color(0xFFF8F9FA),
-        cardColor: Colors.white,
-        colorScheme: ColorScheme.fromSeed(seedColor: AppColors.primary),
-      ),
-      darkTheme: ThemeData(
-        brightness: Brightness.dark,
-        scaffoldBackgroundColor: const Color(0xFF121212),
-        cardColor: const Color(0xFF1E1E2E),
-        colorScheme: ColorScheme.fromSeed(
-          seedColor: AppColors.primary,
-          brightness: Brightness.dark,
-        ),
-      ),
+      theme: AppTheme.light,
+      darkTheme: AppTheme.dark,
       themeMode: initialThemeMode,
       initialRoute: AppRoutes.initial,
       getPages: AppRoutes.routes,

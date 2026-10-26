@@ -31,6 +31,8 @@ import '../Snapkart_App_Screens/Order_Place/order_binding.dart';
 import '../Snapkart_App_Screens/Order_Place/order_view.dart';
 import '../Snapkart_App_Screens/Splash_Screen/Splash_View.dart';
 import '../Snapkart_App_Screens/Splash_Screen/splash_binding.dart';
+import '../Snapkart_App_Screens/Main_Nav/main_nav_view.dart';
+import '../Snapkart_App_Screens/Main_Nav/main_nav_binding.dart';
 
 class AppRoutes {
   static const String initial = '/initial';
@@ -53,7 +55,8 @@ class AppRoutes {
 
   static final routes = [
     GetPage(name: initial, page: () => SplashView(), binding: SplashBinding()),
-    GetPage(name: home, page: () => HomeView(), binding: HomeBinding()),
+    //GetPage(name: home, page: () => HomeView(), binding: HomeBinding()),
+    GetPage(name: home, page: () => MainNavView(), binding: MainNavBinding()),
     GetPage(name: searchresult, page: () => SearchResultsView()),
     GetPage(
       name: productdetail,

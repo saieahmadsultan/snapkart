@@ -11,6 +11,8 @@ class SettingController extends GetxController {
   // ── Language ──
   var selectedLanguage = 'English'.obs;
 
+  var profileImage = ''.obs;
+
   final RxBool isPasswordVisible = false.obs;
   var oldPassVisible = false.obs;
   var newPassVisible = false.obs;
@@ -21,6 +23,7 @@ class SettingController extends GetxController {
   var isLoggingOut = false.obs;
 
   var selectedOption = "".obs;
+  var isLoaded = false.obs; // yeh upar baqi variables ke saath add karo
 
   final List<String> languages = ['Urdu', 'English'];
 
@@ -70,6 +73,9 @@ class SettingController extends GetxController {
     deliveryNotifications.value =
         prefs.getBool('delivery_notifications') ?? true;
     selectedLanguage.value = prefs.getString('language') ?? 'English';
+
+    profileImage.value = prefs.getString('login_screen_profile_image') ?? '';
+    isLoaded.value = true; // yeh add karo
   }
 
   // ── Settings save karo ──
