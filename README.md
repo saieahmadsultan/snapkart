@@ -33,79 +33,71 @@ A full-featured e-commerce mobile app built independently in Flutter with a Fire
 
 ### Onboarding & Authentication
 
-| App Icon | Splash Screen | Login | Create Account |
-|---|---|---|---|
-| <img src="screenshots/light/01_onboarding_authentication_app_icon.jpeg" width="200" alt="App Icon" /> | <img src="screenshots/light/02_onboarding_authentication_splash_screen.jpeg" width="200" alt="Splash Screen" /> | <img src="screenshots/light/03_onboarding_authentication_login.jpeg" width="200" alt="Login" /> | <img src="screenshots/light/04_onboarding_authentication_create_account.jpeg" width="200" alt="Create Account" /> |
+<table>
+<tr><td align="center"><img src="screenshots/light/01_onboarding_authentication_app_icon.jpeg" width="200" alt="App Icon" /><br><sub>App Icon</sub></td><td align="center"><img src="screenshots/light/02_onboarding_authentication_splash_screen.jpeg" width="200" alt="Splash Screen" /><br><sub>Splash Screen</sub></td><td align="center"><img src="screenshots/light/03_onboarding_authentication_login.jpeg" width="200" alt="Login" /><br><sub>Login</sub></td><td align="center"><img src="screenshots/light/04_onboarding_authentication_create_account.jpeg" width="200" alt="Create Account" /><br><sub>Create Account</sub></td></tr>
+</table>
 
-| Create Account (Form) |   |   |   |
-|---|---|---|---|
-| <img src="screenshots/light/05_onboarding_authentication_create_account_form.jpeg" width="200" alt="Create Account (Form)" /> |   |   |   |
-
+<table>
+<tr><td align="center"><img src="screenshots/light/05_onboarding_authentication_create_account_form.jpeg" width="200" alt="Create Account (Form)" /><br><sub>Create Account (Form)</sub></td></tr>
+</table>
 
 ### Home, Search, Sort & Filter
 
-| Home | Home (Recently Viewed) | Category Banner | Side Drawer |
-|---|---|---|---|
-| <img src="screenshots/light/06_home_search_sort_filter_home.jpeg" width="200" alt="Home" /> | <img src="screenshots/light/07_home_search_sort_filter_home_recently_viewed.jpeg" width="200" alt="Home (Recently Viewed)" /> | <img src="screenshots/light/08_home_search_sort_filter_category_banner.jpeg" width="200" alt="Category Banner" /> | <img src="screenshots/light/09_home_search_sort_filter_side_drawer.jpeg" width="200" alt="Side Drawer" /> |
+<table>
+<tr><td align="center"><img src="screenshots/light/06_home_search_sort_filter_home.jpeg" width="200" alt="Home" /><br><sub>Home</sub></td><td align="center"><img src="screenshots/light/07_home_search_sort_filter_home_recently_viewed.jpeg" width="200" alt="Home (Recently Viewed)" /><br><sub>Home (Recently Viewed)</sub></td><td align="center"><img src="screenshots/light/08_home_search_sort_filter_category_banner.jpeg" width="200" alt="Category Banner" /><br><sub>Category Banner</sub></td><td align="center"><img src="screenshots/light/09_home_search_sort_filter_side_drawer.jpeg" width="200" alt="Side Drawer" /><br><sub>Side Drawer</sub></td></tr>
+</table>
 
-| Sort By | Filter | Search Results |   |
-|---|---|---|---|
-| <img src="screenshots/light/10_home_search_sort_filter_sort_by.jpeg" width="200" alt="Sort By" /> | <img src="screenshots/light/11_home_search_sort_filter_filter.jpeg" width="200" alt="Filter" /> | <img src="screenshots/light/12_home_search_sort_filter_search_results.jpeg" width="200" alt="Search Results" /> |   |
-
+<table>
+<tr><td align="center"><img src="screenshots/light/10_home_search_sort_filter_sort_by.jpeg" width="200" alt="Sort By" /><br><sub>Sort By</sub></td><td align="center"><img src="screenshots/light/11_home_search_sort_filter_filter.jpeg" width="200" alt="Filter" /><br><sub>Filter</sub></td><td align="center"><img src="screenshots/light/12_home_search_sort_filter_search_results.jpeg" width="200" alt="Search Results" /><br><sub>Search Results</sub></td></tr>
+</table>
 
 ### Product Details
 
-| Image Gallery | Details & Variants | You May Also Like | Added to Cart |
-|---|---|---|---|
-| <img src="screenshots/light/13_product_details_image_gallery.jpeg" width="200" alt="Image Gallery" /> | <img src="screenshots/light/14_product_details_details_variants.jpeg" width="200" alt="Details & Variants" /> | <img src="screenshots/light/15_product_details_you_may_also_like.jpeg" width="200" alt="You May Also Like" /> | <img src="screenshots/light/16_product_details_added_to_cart.jpeg" width="200" alt="Added to Cart" /> |
+<table>
+<tr><td align="center"><img src="screenshots/light/13_product_details_image_gallery.jpeg" width="200" alt="Image Gallery" /><br><sub>Image Gallery</sub></td><td align="center"><img src="screenshots/light/14_product_details_details_variants.jpeg" width="200" alt="Details & Variants" /><br><sub>Details & Variants</sub></td><td align="center"><img src="screenshots/light/15_product_details_you_may_also_like.jpeg" width="200" alt="You May Also Like" /><br><sub>You May Also Like</sub></td><td align="center"><img src="screenshots/light/16_product_details_added_to_cart.jpeg" width="200" alt="Added to Cart" /><br><sub>Added to Cart</sub></td></tr>
+</table>
 
-| Buy Now Confirmation |   |   |   |
-|---|---|---|---|
-| <img src="screenshots/light/17_product_details_buy_now_confirmation.jpeg" width="200" alt="Buy Now Confirmation" /> |   |   |   |
-
+<table>
+<tr><td align="center"><img src="screenshots/light/17_product_details_buy_now_confirmation.jpeg" width="200" alt="Buy Now Confirmation" /><br><sub>Buy Now Confirmation</sub></td></tr>
+</table>
 
 ### Categories
 
-| Categories |   |   |   |
-|---|---|---|---|
-| <img src="screenshots/light/18_categories_categories.jpeg" width="200" alt="Categories" /> |   |   |   |
-
+<table>
+<tr><td align="center"><img src="screenshots/light/18_categories_categories.jpeg" width="200" alt="Categories" /><br><sub>Categories</sub></td></tr>
+</table>
 
 ### Cart & Wishlist
 
-| My Cart | My Wishlist | Wishlist (Tab) |   |
-|---|---|---|---|
-| <img src="screenshots/light/19_cart_wishlist_my_cart.jpeg" width="200" alt="My Cart" /> | <img src="screenshots/light/20_cart_wishlist_my_wishlist.jpeg" width="200" alt="My Wishlist" /> | <img src="screenshots/light/21_cart_wishlist_wishlist_tab.jpeg" width="200" alt="Wishlist (Tab)" /> |   |
-
+<table>
+<tr><td align="center"><img src="screenshots/light/19_cart_wishlist_my_cart.jpeg" width="200" alt="My Cart" /><br><sub>My Cart</sub></td><td align="center"><img src="screenshots/light/20_cart_wishlist_my_wishlist.jpeg" width="200" alt="My Wishlist" /><br><sub>My Wishlist</sub></td><td align="center"><img src="screenshots/light/21_cart_wishlist_wishlist_tab.jpeg" width="200" alt="Wishlist (Tab)" /><br><sub>Wishlist (Tab)</sub></td></tr>
+</table>
 
 ### Checkout
 
-| Checkout (Review) | Order Summary | Payment Step | Address & Payment |
-|---|---|---|---|
-| <img src="screenshots/light/22_checkout_checkout_review.jpeg" width="200" alt="Checkout (Review)" /> | <img src="screenshots/light/23_checkout_order_summary.jpeg" width="200" alt="Order Summary" /> | <img src="screenshots/light/24_checkout_payment_step.jpeg" width="200" alt="Payment Step" /> | <img src="screenshots/light/25_checkout_address_payment.jpeg" width="200" alt="Address & Payment" /> |
+<table>
+<tr><td align="center"><img src="screenshots/light/22_checkout_checkout_review.jpeg" width="200" alt="Checkout (Review)" /><br><sub>Checkout (Review)</sub></td><td align="center"><img src="screenshots/light/23_checkout_order_summary.jpeg" width="200" alt="Order Summary" /><br><sub>Order Summary</sub></td><td align="center"><img src="screenshots/light/24_checkout_payment_step.jpeg" width="200" alt="Payment Step" /><br><sub>Payment Step</sub></td><td align="center"><img src="screenshots/light/25_checkout_address_payment.jpeg" width="200" alt="Address & Payment" /><br><sub>Address & Payment</sub></td></tr>
+</table>
 
-| Payment Methods | Address Edit | Address Edit (Pick on Map) | Order Placed |
-|---|---|---|---|
-| <img src="screenshots/light/26_checkout_payment_methods.jpeg" width="200" alt="Payment Methods" /> | <img src="screenshots/light/27_checkout_address_edit.jpeg" width="200" alt="Address Edit" /> | <img src="screenshots/light/28_checkout_address_edit_pick_on_map.jpeg" width="200" alt="Address Edit (Pick on Map)" /> | <img src="screenshots/light/29_checkout_order_placed.jpeg" width="200" alt="Order Placed" /> |
-
+<table>
+<tr><td align="center"><img src="screenshots/light/26_checkout_payment_methods.jpeg" width="200" alt="Payment Methods" /><br><sub>Payment Methods</sub></td><td align="center"><img src="screenshots/light/27_checkout_address_edit.jpeg" width="200" alt="Address Edit" /><br><sub>Address Edit</sub></td><td align="center"><img src="screenshots/light/28_checkout_address_edit_pick_on_map.jpeg" width="200" alt="Address Edit (Pick on Map)" /><br><sub>Address Edit (Pick on Map)</sub></td><td align="center"><img src="screenshots/light/29_checkout_order_placed.jpeg" width="200" alt="Order Placed" /><br><sub>Order Placed</sub></td></tr>
+</table>
 
 ### Order History
 
-| All Orders | Orders (Tab) | Status Filter |   |
-|---|---|---|---|
-| <img src="screenshots/light/30_order_history_all_orders.jpeg" width="200" alt="All Orders" /> | <img src="screenshots/light/31_order_history_orders_tab.jpeg" width="200" alt="Orders (Tab)" /> | <img src="screenshots/light/32_order_history_status_filter.jpeg" width="200" alt="Status Filter" /> |   |
-
+<table>
+<tr><td align="center"><img src="screenshots/light/30_order_history_all_orders.jpeg" width="200" alt="All Orders" /><br><sub>All Orders</sub></td><td align="center"><img src="screenshots/light/31_order_history_orders_tab.jpeg" width="200" alt="Orders (Tab)" /><br><sub>Orders (Tab)</sub></td><td align="center"><img src="screenshots/light/32_order_history_status_filter.jpeg" width="200" alt="Status Filter" /><br><sub>Status Filter</sub></td></tr>
+</table>
 
 ### Settings, Profile & About
 
-| Settings | Account Options | Change Password | Delete Account |
-|---|---|---|---|
-| <img src="screenshots/light/33_settings_profile_about_settings.jpeg" width="200" alt="Settings" /> | <img src="screenshots/light/34_settings_profile_about_account_options.jpeg" width="200" alt="Account Options" /> | <img src="screenshots/light/35_settings_profile_about_change_password.jpeg" width="200" alt="Change Password" /> | <img src="screenshots/light/36_settings_profile_about_delete_account.jpeg" width="200" alt="Delete Account" /> |
+<table>
+<tr><td align="center"><img src="screenshots/light/33_settings_profile_about_settings.jpeg" width="200" alt="Settings" /><br><sub>Settings</sub></td><td align="center"><img src="screenshots/light/34_settings_profile_about_account_options.jpeg" width="200" alt="Account Options" /><br><sub>Account Options</sub></td><td align="center"><img src="screenshots/light/35_settings_profile_about_change_password.jpeg" width="200" alt="Change Password" /><br><sub>Change Password</sub></td><td align="center"><img src="screenshots/light/36_settings_profile_about_delete_account.jpeg" width="200" alt="Delete Account" /><br><sub>Delete Account</sub></td></tr>
+</table>
 
-| User Information | Urdu (RTL) | About Us | Complaint Box |
-|---|---|---|---|
-| <img src="screenshots/light/37_settings_profile_about_user_information.jpeg" width="200" alt="User Information" /> | <img src="screenshots/light/38_settings_profile_about_urdu_rtl.jpeg" width="200" alt="Urdu (RTL)" /> | <img src="screenshots/light/39_settings_profile_about_about_us.jpeg" width="200" alt="About Us" /> | <img src="screenshots/light/40_settings_profile_about_complaint_box.jpeg" width="200" alt="Complaint Box" /> |
-
+<table>
+<tr><td align="center"><img src="screenshots/light/37_settings_profile_about_user_information.jpeg" width="200" alt="User Information" /><br><sub>User Information</sub></td><td align="center"><img src="screenshots/light/38_settings_profile_about_urdu_rtl.jpeg" width="200" alt="Urdu (RTL)" /><br><sub>Urdu (RTL)</sub></td><td align="center"><img src="screenshots/light/39_settings_profile_about_about_us.jpeg" width="200" alt="About Us" /><br><sub>About Us</sub></td><td align="center"><img src="screenshots/light/40_settings_profile_about_complaint_box.jpeg" width="200" alt="Complaint Box" /><br><sub>Complaint Box</sub></td></tr>
+</table>
 
 ---
 
@@ -113,72 +105,65 @@ A full-featured e-commerce mobile app built independently in Flutter with a Fire
 
 ### Home, Search, Sort & Filter
 
-| Home | Category Banner | Side Drawer | Sort By |
-|---|---|---|---|
-| <img src="screenshots/dark/01_home_search_sort_filter_home.jpeg" width="200" alt="Home" /> | <img src="screenshots/dark/02_home_search_sort_filter_category_banner.jpeg" width="200" alt="Category Banner" /> | <img src="screenshots/dark/03_home_search_sort_filter_side_drawer.jpeg" width="200" alt="Side Drawer" /> | <img src="screenshots/dark/04_home_search_sort_filter_sort_by.jpeg" width="200" alt="Sort By" /> |
+<table>
+<tr><td align="center"><img src="screenshots/dark/01_home_search_sort_filter_home.jpeg" width="200" alt="Home" /><br><sub>Home</sub></td><td align="center"><img src="screenshots/dark/02_home_search_sort_filter_category_banner.jpeg" width="200" alt="Category Banner" /><br><sub>Category Banner</sub></td><td align="center"><img src="screenshots/dark/03_home_search_sort_filter_side_drawer.jpeg" width="200" alt="Side Drawer" /><br><sub>Side Drawer</sub></td><td align="center"><img src="screenshots/dark/04_home_search_sort_filter_sort_by.jpeg" width="200" alt="Sort By" /><br><sub>Sort By</sub></td></tr>
+</table>
 
-| Filter | Search Results |   |   |
-|---|---|---|---|
-| <img src="screenshots/dark/05_home_search_sort_filter_filter.jpeg" width="200" alt="Filter" /> | <img src="screenshots/dark/06_home_search_sort_filter_search_results.jpeg" width="200" alt="Search Results" /> |   |   |
-
+<table>
+<tr><td align="center"><img src="screenshots/dark/05_home_search_sort_filter_filter.jpeg" width="200" alt="Filter" /><br><sub>Filter</sub></td><td align="center"><img src="screenshots/dark/06_home_search_sort_filter_search_results.jpeg" width="200" alt="Search Results" /><br><sub>Search Results</sub></td></tr>
+</table>
 
 ### Product Details
 
-| Image Gallery | Details & Variants | You May Also Like | Added to Cart |
-|---|---|---|---|
-| <img src="screenshots/dark/07_product_details_image_gallery.jpeg" width="200" alt="Image Gallery" /> | <img src="screenshots/dark/08_product_details_details_variants.jpeg" width="200" alt="Details & Variants" /> | <img src="screenshots/dark/09_product_details_you_may_also_like.jpeg" width="200" alt="You May Also Like" /> | <img src="screenshots/dark/10_product_details_added_to_cart.jpeg" width="200" alt="Added to Cart" /> |
+<table>
+<tr><td align="center"><img src="screenshots/dark/07_product_details_image_gallery.jpeg" width="200" alt="Image Gallery" /><br><sub>Image Gallery</sub></td><td align="center"><img src="screenshots/dark/08_product_details_details_variants.jpeg" width="200" alt="Details & Variants" /><br><sub>Details & Variants</sub></td><td align="center"><img src="screenshots/dark/09_product_details_you_may_also_like.jpeg" width="200" alt="You May Also Like" /><br><sub>You May Also Like</sub></td><td align="center"><img src="screenshots/dark/10_product_details_added_to_cart.jpeg" width="200" alt="Added to Cart" /><br><sub>Added to Cart</sub></td></tr>
+</table>
 
-| Buy Now Confirmation |   |   |   |
-|---|---|---|---|
-| <img src="screenshots/dark/11_product_details_buy_now_confirmation.jpeg" width="200" alt="Buy Now Confirmation" /> |   |   |   |
-
+<table>
+<tr><td align="center"><img src="screenshots/dark/11_product_details_buy_now_confirmation.jpeg" width="200" alt="Buy Now Confirmation" /><br><sub>Buy Now Confirmation</sub></td></tr>
+</table>
 
 ### Categories
 
-| Categories |   |   |   |
-|---|---|---|---|
-| <img src="screenshots/dark/12_categories_categories.jpeg" width="200" alt="Categories" /> |   |   |   |
-
+<table>
+<tr><td align="center"><img src="screenshots/dark/12_categories_categories.jpeg" width="200" alt="Categories" /><br><sub>Categories</sub></td></tr>
+</table>
 
 ### Cart & Wishlist
 
-| My Cart | Order Summary | My Wishlist | Wishlist (Tab) |
-|---|---|---|---|
-| <img src="screenshots/dark/13_cart_wishlist_my_cart.jpeg" width="200" alt="My Cart" /> | <img src="screenshots/dark/14_cart_wishlist_order_summary.jpeg" width="200" alt="Order Summary" /> | <img src="screenshots/dark/15_cart_wishlist_my_wishlist.jpeg" width="200" alt="My Wishlist" /> | <img src="screenshots/dark/16_cart_wishlist_wishlist_tab.jpeg" width="200" alt="Wishlist (Tab)" /> |
-
+<table>
+<tr><td align="center"><img src="screenshots/dark/13_cart_wishlist_my_cart.jpeg" width="200" alt="My Cart" /><br><sub>My Cart</sub></td><td align="center"><img src="screenshots/dark/14_cart_wishlist_order_summary.jpeg" width="200" alt="Order Summary" /><br><sub>Order Summary</sub></td><td align="center"><img src="screenshots/dark/15_cart_wishlist_my_wishlist.jpeg" width="200" alt="My Wishlist" /><br><sub>My Wishlist</sub></td><td align="center"><img src="screenshots/dark/16_cart_wishlist_wishlist_tab.jpeg" width="200" alt="Wishlist (Tab)" /><br><sub>Wishlist (Tab)</sub></td></tr>
+</table>
 
 ### Checkout
 
-| Checkout (Review) | Address & Payment | Payment Methods | Address Edit |
-|---|---|---|---|
-| <img src="screenshots/dark/17_checkout_checkout_review.jpeg" width="200" alt="Checkout (Review)" /> | <img src="screenshots/dark/18_checkout_address_payment.jpeg" width="200" alt="Address & Payment" /> | <img src="screenshots/dark/19_checkout_payment_methods.jpeg" width="200" alt="Payment Methods" /> | <img src="screenshots/dark/20_checkout_address_edit.jpeg" width="200" alt="Address Edit" /> |
+<table>
+<tr><td align="center"><img src="screenshots/dark/17_checkout_checkout_review.jpeg" width="200" alt="Checkout (Review)" /><br><sub>Checkout (Review)</sub></td><td align="center"><img src="screenshots/dark/18_checkout_address_payment.jpeg" width="200" alt="Address & Payment" /><br><sub>Address & Payment</sub></td><td align="center"><img src="screenshots/dark/19_checkout_payment_methods.jpeg" width="200" alt="Payment Methods" /><br><sub>Payment Methods</sub></td><td align="center"><img src="screenshots/dark/20_checkout_address_edit.jpeg" width="200" alt="Address Edit" /><br><sub>Address Edit</sub></td></tr>
+</table>
 
-| Address Edit (Pick on Map) | Order Placed |   |   |
-|---|---|---|---|
-| <img src="screenshots/dark/21_checkout_address_edit_pick_on_map.jpeg" width="200" alt="Address Edit (Pick on Map)" /> | <img src="screenshots/dark/22_checkout_order_placed.jpeg" width="200" alt="Order Placed" /> |   |   |
-
+<table>
+<tr><td align="center"><img src="screenshots/dark/21_checkout_address_edit_pick_on_map.jpeg" width="200" alt="Address Edit (Pick on Map)" /><br><sub>Address Edit (Pick on Map)</sub></td><td align="center"><img src="screenshots/dark/22_checkout_order_placed.jpeg" width="200" alt="Order Placed" /><br><sub>Order Placed</sub></td></tr>
+</table>
 
 ### Order History
 
-| Latest Orders | All Orders | Status Filter |   |
-|---|---|---|---|
-| <img src="screenshots/dark/23_order_history_latest_orders.jpeg" width="200" alt="Latest Orders" /> | <img src="screenshots/dark/24_order_history_all_orders.jpeg" width="200" alt="All Orders" /> | <img src="screenshots/dark/25_order_history_status_filter.jpeg" width="200" alt="Status Filter" /> |   |
-
+<table>
+<tr><td align="center"><img src="screenshots/dark/23_order_history_latest_orders.jpeg" width="200" alt="Latest Orders" /><br><sub>Latest Orders</sub></td><td align="center"><img src="screenshots/dark/24_order_history_all_orders.jpeg" width="200" alt="All Orders" /><br><sub>All Orders</sub></td><td align="center"><img src="screenshots/dark/25_order_history_status_filter.jpeg" width="200" alt="Status Filter" /><br><sub>Status Filter</sub></td></tr>
+</table>
 
 ### Settings, Profile & About
 
-| Settings | Dark Mode & Account | Profile Tab | Change Password |
-|---|---|---|---|
-| <img src="screenshots/dark/26_settings_profile_about_settings.jpeg" width="200" alt="Settings" /> | <img src="screenshots/dark/27_settings_profile_about_dark_mode_account.jpeg" width="200" alt="Dark Mode & Account" /> | <img src="screenshots/dark/28_settings_profile_about_profile_tab.jpeg" width="200" alt="Profile Tab" /> | <img src="screenshots/dark/29_settings_profile_about_change_password.jpeg" width="200" alt="Change Password" /> |
+<table>
+<tr><td align="center"><img src="screenshots/dark/26_settings_profile_about_settings.jpeg" width="200" alt="Settings" /><br><sub>Settings</sub></td><td align="center"><img src="screenshots/dark/27_settings_profile_about_dark_mode_account.jpeg" width="200" alt="Dark Mode & Account" /><br><sub>Dark Mode & Account</sub></td><td align="center"><img src="screenshots/dark/28_settings_profile_about_profile_tab.jpeg" width="200" alt="Profile Tab" /><br><sub>Profile Tab</sub></td><td align="center"><img src="screenshots/dark/29_settings_profile_about_change_password.jpeg" width="200" alt="Change Password" /><br><sub>Change Password</sub></td></tr>
+</table>
 
-| Delete Account | User Information | Urdu (RTL) | About Us |
-|---|---|---|---|
-| <img src="screenshots/dark/30_settings_profile_about_delete_account.jpeg" width="200" alt="Delete Account" /> | <img src="screenshots/dark/31_settings_profile_about_user_information.jpeg" width="200" alt="User Information" /> | <img src="screenshots/dark/32_settings_profile_about_urdu_rtl.jpeg" width="200" alt="Urdu (RTL)" /> | <img src="screenshots/dark/33_settings_profile_about_about_us.jpeg" width="200" alt="About Us" /> |
+<table>
+<tr><td align="center"><img src="screenshots/dark/30_settings_profile_about_delete_account.jpeg" width="200" alt="Delete Account" /><br><sub>Delete Account</sub></td><td align="center"><img src="screenshots/dark/31_settings_profile_about_user_information.jpeg" width="200" alt="User Information" /><br><sub>User Information</sub></td><td align="center"><img src="screenshots/dark/32_settings_profile_about_urdu_rtl.jpeg" width="200" alt="Urdu (RTL)" /><br><sub>Urdu (RTL)</sub></td><td align="center"><img src="screenshots/dark/33_settings_profile_about_about_us.jpeg" width="200" alt="About Us" /><br><sub>About Us</sub></td></tr>
+</table>
 
-| Complaint Box |   |   |   |
-|---|---|---|---|
-| <img src="screenshots/dark/34_settings_profile_about_complaint_box.jpeg" width="200" alt="Complaint Box" /> |   |   |   |
-
+<table>
+<tr><td align="center"><img src="screenshots/dark/34_settings_profile_about_complaint_box.jpeg" width="200" alt="Complaint Box" /><br><sub>Complaint Box</sub></td></tr>
+</table>
 
 ---
 
@@ -196,7 +181,7 @@ A full-featured e-commerce mobile app built independently in Flutter with a Fire
 
 ## 🏗️ Architecture Highlights
 
-- Clean, reusable GetX controllers shared across 16+ screens
+- Clean, reusable GetX controllers shared across 20+ screens and dialogs
 - Real-time Firestore listeners for order updates and admin-side inventory sync (see companion [SnapKart Admin Panel](https://github.com/saieahmadsultan/snapkart-admin-panel))
 - One-time custom migration script to move the product catalog from a public REST API into Firestore
 - Firebase Security Rules configured for role-based data access
